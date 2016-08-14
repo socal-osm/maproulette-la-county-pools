@@ -1,4 +1,6 @@
 # maproulette-la-county-pools
+![pools](https://cloud.githubusercontent.com/assets/695934/17651371/b584a70a-621a-11e6-8c23-c8564dd7bce1.png)
+
 Use L.A. County Assessor data to jump to a parcel with a pool and ask for it to be traced. https://data.lacounty.gov/Parcel-/Assessor-Parcels-Data-2015/hvzm-fn38 
 
 Ken Schwencke analyzed [this data set](http://thethrust.net/diving-into-las-pools/). He found there were more than 250,000 pools. Ninety-six percent of them are behind single-family homes. 
